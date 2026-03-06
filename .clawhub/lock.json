@@ -24,6 +24,10 @@
     "bitwarden-vault": {
       "version": "1.0.0",
       "installedAt": 1772711942471
+    },
+    "domain-trust-check": {
+      "version": "1.2.2",
+      "installedAt": 1772799322160
     }
   }
 }
