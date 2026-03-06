@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-commons": {
+      "version": "1.0.3",
+      "installedAt": 1772702779888
+    },
+    "claw-skill-guard": {
+      "version": "1.1.0",
+      "installedAt": 1772703298963
+    },
+    "dating": {
+      "version": "1.4.1",
+      "installedAt": 1772704410900
+    },
+    "youtube-ultimate": {
+      "version": "4.2.2",
+      "installedAt": 1772705655151
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1772709914979
+    },
+    "bitwarden-vault": {
+      "version": "1.0.0",
+      "installedAt": 1772711942471
+    }
+  }
+}
